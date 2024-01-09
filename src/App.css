@@ -1,0 +1,41 @@
+.gameCard {
+  /* Rectangle 1 */
+
+box-sizing: border-box;
+
+width: 320px;
+height: 291px;
+
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.26);
+box-shadow: 3px 6px 6px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+
+
+/* Rectangle 2 */
+
+width: 231px;
+height: 227px;
+
+
+background: #FFFFFF;
+border: 8px solid #FF0000;
+border-radius: 5px;
+
+
+/* 23 */
+
+width: 165px;
+height: 155px;
+
+
+font-style: normal;
+font-weight: 700;
+font-size: 128px;
+line-height: 155px;
+/* identical to box height */
+
+color: #000000;
+
+
+}
